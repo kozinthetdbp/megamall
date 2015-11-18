@@ -1,0 +1,204 @@
+<root><blocks><cms_block><title><![CDATA[CMS Home Menu]]></title><identifier>position-1</identifier><content><![CDATA[<ul>
+<li class="active"><a href="{{store direct_url=""}}home">Home</a></li>
+<li><a href="{{store direct_url="customer-service"}}">Customer Service</a></li>
+<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Terms &amp; Conditions</a></li>
+<li><a href="{{store direct_url="about-magento-demo-store"}}">About us</a></li>
+<li><a href="{{store direct_url="contacts"}}">Contact us</a></li>
+</ul>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[About  us]]></title><identifier>position-15</identifier><content><![CDATA[<div class="about-follow-us">
+<div class="block block-aboutus">
+<div class="block-title"><strong><span>About Us</span></strong></div>
+<div class="block-content">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vulputate iaculis dolor. Nam convallis porttitor sapien, ut tincidunt magna dapibus sed</p>
+<ul class="list-info">
+<li class="address"><em class="fa fa-home">&nbsp;</em><span>Add:</span> 108 Street, AZ District, Green City</li>
+<li class="phone"><em class="fa fa-phone">&nbsp;</em><span>Tel:</span> +123 456 7890</li>
+<li class="email"><em class="fa fa-envelope">&nbsp;</em><span>Email:</span> <a href="mailto:owner@example.com">owner@example.com</a></li>
+</ul>
+</div>
+</div>
+<div class="block block-followus">
+<div class="block-title"><strong><span>Follow us</span></strong></div>
+<div class="block-content">
+<p>Lorem ipsum, libero et luctus molestie, turpis mi sagittis nisl, a scelerisque leo</p>
+<ul class="list-socials">
+<li class="first"><a href="http://www.facebook.com/joomlart"><em class="fa fa-facebook">&nbsp;</em></a></li>
+<li><a href="https://twitter.com/JoomlArt"><em class="fa fa-twitter">&nbsp;</em></a></li>
+<li><a href="http://www.joomlart.com"> <em class="fa fa-google-plus">&nbsp;</em></a></li>
+<li class="last"><a href="http://www.joomlart.com"> <em class="fa fa-pinterest">&nbsp;</em></a></li>
+</ul>
+</div>
+</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Information]]></title><identifier>position-17</identifier><content><![CDATA[<div class="block block-information col-1 first">
+<div class="col-inner">
+<div class="block-title"><strong><span>Information</span></strong></div>
+<div class="block-content">
+<ul>
+<li><a href="{{store direct_url="about-magento-demo-store"}}">About Us</a></li>
+<li><a href="{{store direct_url="contacts"}}">Contact Us</a></li>
+<li><a href="{{store direct_url="terms-conditions"}}">Terms &amp; Conditions</a></li>
+<li><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+<li><a href="{{store direct_url="sales/guest/form"}}">Orders and Returns</a></li>
+<li><a href="{{store direct_url="catalog/seo_sitemap/category"}}">Site Map</a></li>
+</ul>
+</div>
+</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Why buy from us]]></title><identifier>position-18</identifier><content><![CDATA[<div class="block block-why-us col-2">
+<div class="col-inner">
+<div class="block-title"><strong><span>Why buy from us</span></strong></div>
+<div class="block-content">
+<ul>
+<li><a href="#">Product Recall</a></li>
+<li><a href="#">Gift Vouchers</a></li>
+<li><a href="#">Returns and Exchanges</a></li>
+<li><a href="#">Shipping Options</a></li>
+<li><a href="#">Help &amp; FAQs</a></li>
+<li><a href="#">Hard to Find Parts</a></li>
+</ul>
+</div>
+</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[My account]]></title><identifier>position-19</identifier><content><![CDATA[<div class="block block-my-account col-3">
+<div class="col-inner">
+<div class="block-title"><strong><span>My account</span></strong></div>
+<div class="block-content">
+<ul>
+<li><a href="#">Sign In</a></li>
+<li><a href="#">View Cart</a></li>
+<li><a href="#">My Wishlist</a></li>
+<li><a href="#">Check out</a></li>
+<li><a href="#">Track My Order</a></li>
+<li><a href="#">Help</a></li>
+</ul>
+</div>
+</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Userful links]]></title><identifier>position-20</identifier><content><![CDATA[<div class="block block-links col-4 last">
+<div class="col-inner">
+<div class="block-title"><strong><span>Userful links</span></strong></div>
+<div class="block-content">
+<ul>
+<li><a href="#">Pricing Policy</a></li>
+<li><a href="#">Shipping Policy</a></li>
+<li><a href="#">Payment Methods</a></li>
+<li><a href="#">Payment Methods</a></li>
+<li><a href="#">Site Information</a></li>
+<li><a href="#">Your Satisfaction</a></li>
+</ul>
+</div>
+</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Free shipping]]></title><identifier>position-2</identifier><content><![CDATA[<ul>
+<li class="first"><em class="fa fa-truck"></em> <span>free shipping</span> over than $150</li>
+<li><em class="fa fa-phone"></em> <span>123-456-7890</span> 8:30 am - 6:00pm, Mon - Sat</li>
+<li><em class="fa fa-usd"></em> <span>pay on delivery</span> just on delivery</li>
+<li class="last"><em class="fa fa-refresh"></em> <span>money back</span> guarantee 100%</li>
+</ul>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Black Friday]]></title><identifier>position-3</identifier><content><![CDATA[<div class="col-1">
+<div class="block vertical-mega-menu">
+<div class="block-title"><strong>Categories</strong></div>
+{{block type="jmmegamenu/jmmegamenu" name="catalog.topnav12" output="toHtml" }}</div>
+</div>
+<div class="col-2">
+<div>{{block type="joomlart_jmslideshow/list" name="home.jmslideshow.list" }}</div>
+<div>{{block type="joomlart_jmproductsslider/list" title="Black Friday" name="home.jmproductsslider.list" mode="latest" catsid="all" itemwidth="92" itemheight="130" width="90" height="90"}}</div>
+</div>
+<div class="col-3"><img src="{{media url="wysiwyg/callout/callout_1.jpg"}}" alt="Megamall" /> <img src="{{media url="wysiwyg/callout/callout_2.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Connect Today]]></title><identifier>position-4</identifier><content><![CDATA[<div><img src="{{media url="wysiwyg/banners/banner1.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Fashion]]></title><identifier>position-11</identifier><content><![CDATA[<div class="block block-cate">
+<h2><a href="{{store direct_url=""}}fashion.html">fashion</a></h2>
+<ul>
+<li><a href="{{store direct_url=""}}electronics.html">Women</a></li>
+<li><a href="{{store direct_url=""}}decor.html">Men</a></li>
+<li><a href="{{store direct_url=""}}gifts.html">Kids</a></li>
+<li><a href="{{store direct_url=""}}beauty-health.html">Baby</a></li>
+<li><a href="{{store direct_url=""}}bestselling.html">Dresses</a></li>
+<li><a href="{{store direct_url=""}}all.html">Accessories</a></li>
+<li><a href="{{store direct_url=""}}feature-products.html">Brands</a></li>
+<li><a href="{{store direct_url=""}}saleoff.html">Sales &amp; Deals</a></li>
+</ul>
+</div>
+<div class="col2-set list-categories">
+<div class="col-1">{{block type="joomlart_jmproductsslider/list" name="cate.jmproductsslider1" template="joomlart/jmproductsslider/horizontallist.phtml" title="New products <span>Spring collection</span>" mode="latest" number_items="1" itemwidth="237" itemheight="249" width="237" height="170" catsid="all"}}</div>
+<div class="col-2">{{block type="joomlart_jmproducts/list" name="home.jmproducts.list" title="Best Selling <span>Updated hourly</span>" mode="best_buy" template="joomlart/jmproducts/list.phtml" catsid="all"}}</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Megamall Banner]]></title><identifier>position-6</identifier><content><![CDATA[<div><img src="{{media url="wysiwyg/banners/banner2.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Gifts & Decor]]></title><identifier>position-9</identifier><content><![CDATA[<div class="block block-cate">
+<h2><a href="{{store direct_url=""}}decor.html">Gifts &amp; Decor</a></h2>
+<ul>
+<li><a href="{{store direct_url=""}}puppy.html">Home Audio</a></li>
+<li><a href="{{store direct_url=""}}skatings.html">Camera</a></li>
+<li><a href="{{store direct_url=""}}decorations.html">Cell Phones</a></li>
+<li><a href="{{store direct_url=""}}bestselling.html">MP3 Players</a></li>
+<li><a href="{{store direct_url=""}}feature-products.html">Car Electronics</a></li>
+<li><a href="{{store direct_url=""}}saleoff.html">Accessories</a></li>
+</ul>
+</div>
+<div class="col2-set list-categories list-cate-colr">
+<div class="col-1">{{block type="joomlart_jmproductsslider/list" name="cate.jmproductsslider2" template="joomlart/jmproductsslider/verticallist.phtml" title="on sale <span>30-70%</span>" mode="latest" perrow="1" number_items="3" itemwidth="240" itemheight="90" catsid="all"}}</div>
+<div class="col-2">{{block type="joomlart_jmproducts/list" name="home.jmproducts.list" title="new products <span>Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>" mode="latest" template="joomlart/jmproducts/list.phtml" catsid="all"}}</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Sales off]]></title><identifier>position-8</identifier><content><![CDATA[<div><img src="{{media url="wysiwyg/banners/banner3.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[toy, kid & baby]]></title><identifier>position-7</identifier><content><![CDATA[<div class="block block-cate">
+<h2><a href="{{store direct_url=""}}new-products.html">toy, kid &amp; baby</a></h2>
+<ul>
+<li><a href="{{store direct_url=""}}blackfriday.html">Toys &amp; Games</a></li>
+<li><a href="{{store direct_url=""}}new-products/hot-trend.html">Baby</a></li>
+<li><a href="{{store direct_url=""}}new-products/new-design.html">Kids' Clothing</a></li>
+<li><a href="{{store direct_url=""}}bestselling.html">Baby Clothing</a></li>
+<li><a href="{{store direct_url=""}}feature-products.html">Video Games for Kids</a></li>
+<li><a href="{{store direct_url=""}}saleoff.html">Sales &amp; Deals</a></li>
+</ul>
+</div>
+<div class="col2-set list-categories">
+<div class="col-1">{{block type="joomlart_jmproductsslider/list" name="cate.jmproductsslider1" template="joomlart/jmproductsslider/horizontallist.phtml" title="New products <span>Spring collection</span>" mode="latest" number_items="1" itemwidth="237" itemheight="249" width="237" height="170" catsid="all"}}</div>
+<div class="col-2">{{block type="joomlart_jmproducts/list" name="home.jmproducts.list" title="Best Selling <span>Updated hourly"</span>&nbsp; template="joomlart/jmproducts/list.phtml" catsid="all"}}</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Photography]]></title><identifier>position-10</identifier><content><![CDATA[<div><img src="{{media url="wysiwyg/banners/banner4.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[home & pets]]></title><identifier>position-5</identifier><content><![CDATA[<div class="block block-cate">
+<h2><a href="{{store direct_url=""}}gifts.html">home &amp; pets</a></h2>
+<ul>
+<li><a href="{{store direct_url=""}}all.html">Kitchen</a></li>
+<li><a href="{{store direct_url=""}}saleoff.html">Furniture</a></li>
+<li><a href="{{store direct_url=""}}feature-products.html">Appliances</a></li>
+<li><a href="{{store direct_url=""}}bestselling.html">Patio</a></li>
+<li><a href="{{store direct_url=""}}gifts/beauty-health/lotion.html">Garden</a></li>
+<li><a href="{{store direct_url=""}}gifts/skatings.html">Fine Art</a></li>
+<li><a href="{{store direct_url=""}}gifts/puppy.html">Pet Supplies</a></li>
+</ul>
+</div>
+<div class="col2-set list-categories list-cate-colr">
+<div class="col-1">{{block type="joomlart_jmproductsslider/list" name="cate.jmproductsslider2" template="joomlart/jmproductsslider/verticallist.phtml" title="on sale <span>30-70%</span>" mode="latest" perrow="1" number_items="3" itemwidth="240" itemheight="90"}}</div>
+<div class="col-2">{{block type="joomlart_jmproducts/list" name="home.jmproducts.list" title="Best Selling <span>Home decoration and arrangement</span>" mode="latest" template="joomlart/jmproducts/list.phtml" catsid="all"}}</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Connect Today]]></title><identifier>position-12</identifier><content><![CDATA[<div><img src="{{media url="wysiwyg/banners/banner1.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[beauty & health]]></title><identifier>position-13</identifier><content><![CDATA[<div class="block block-cate">
+<h2><a href="{{store direct_url=""}}gifts/beauty-health.html">beauty &amp; health</a></h2>
+<ul>
+<li><a href="{{store direct_url=""}}gifts/beauty-health/span.html">Luxury Beauty</a></li>
+<li><a href="{{store direct_url=""}}new-products.html">New Arrivals</a></li>
+<li><a href="{{store direct_url=""}}gifts/beauty-health/lotion.html">Makeup</a></li>
+<li><a href="{{store direct_url=""}}gifts/beauty-health/span.html">Skin Care</a></li>
+<li><a href="{{store direct_url=""}}gifts/beauty-health/pefume.html">Hair Care</a></li>
+<li><a href="{{store direct_url=""}}saleoff.html">Fragrance</a></li>
+</ul>
+</div>
+<div class="col2-set list-categories list-cate-colr">
+<div class="col-1">{{block type="joomlart_jmproductsslider/list" name="cate.jmproductsslider13" template="joomlart/jmproductsslider/verticallist.phtml" title="on sale <span>30-70%</span>" mode="latest" perrow="1" number_items="3" catsid="all" itemwidth="240" itemheight="90"}}</div>
+<div class="col-2">{{block type="joomlart_jmproducts/list" name="home.jmproducts.list" title="Best Selling <span>Updated hourly</span>" mode="best_buy" template="joomlart/jmproducts/list.phtml" catsid="all"}}</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Logo companies]]></title><identifier>position-14</identifier><content><![CDATA[<ul>
+<li><img src="{{media url="wysiwyg/brands/jm-book.jpg"}}" alt="" /></li>
+<li><img src="{{media url="wysiwyg/brands/jm-crafts.jpg"}}" alt="" /></li>
+<li><img src="{{media url="wysiwyg/brands/jm-sporty.jpg"}}" alt="" /></li>
+<li><img src="{{media url="wysiwyg/brands/jm-siotis.jpg"}}" alt="" /></li>
+<li><img src="{{media url="wysiwyg/brands/jm-hawkstore.jpg"}}" alt="" /></li>
+<li><img src="{{media url="wysiwyg/brands/jm-megamall.jpg"}}" alt="" /></li>
+</ul>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Feature products]]></title><identifier>featured-product</identifier><content><![CDATA[<div>{{block type="joomlart_jmproducts/list" name="twoproduct" title="" quanlity="2" template="joomlart/jmproducts/twoproduct.phtml" catsid="all"}}</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Contacts Map]]></title><identifier>contactinfo</identifier><content><![CDATA[<div class="contact-info">
+<div class="inner"><iframe src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=123+Main+st.+Los+Angeles,+CA,+90012,+U.S.A+&amp;sll=37.0625,-95.677068&amp;sspn=34.176059,86.572266&amp;ie=UTF8&amp;hq=&amp;hnear=123+S+Main+St,+Los+Angeles,+California+90012&amp;t=m&amp;ll=34.051877,-118.243704&amp;spn=0.027023,0.072012&amp;z=14&amp;iwloc=A&amp;output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="295"></iframe>
+<div class="info-inner">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+<div class="info-inner2">
+<ul class="list-info">
+<li class="address"><em class="fa fa-home">&nbsp;</em><span>Address:</span> 123 Main st. Los Angeles, CA, 90012, U.S.A</li>
+<li class="phone"><em class="fa fa-phone">&nbsp;</em><span>Phone:</span> (315) 457-0000</li>
+<li class="email"><em class="fa fa-envelope">&nbsp;</em><span>Email:</span> <a href="mailto:admin@email.com">admin@email.com</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[colors]]></title><identifier>colors</identifier><content><![CDATA[<div class="colors-setting"><label for="select-colors">colors:</label> <a class="colors-default" href="{{store url=""}}?jmcolor=default"><span>default</span></a> <a class="colors-green" href="{{store url=""}}?jmcolor=green"><span>green</span></a> <a class="colors-pink" href="{{store url=""}}?jmcolor=pink"><span>pink</span></a> <a class="colors-red" href="{{store url=""}}?jmcolor=red"><span>red</span></a> <a class="colors-violet" href="{{store url=""}}?jmcolor=violet"><span>violet</span></a> <a class="colors-boxes" href="{{store url=""}}?jmcolor=boxes"><span>boxes</span></a></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Social share]]></title><identifier>addshare</identifier><content><![CDATA[<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_pinterest_pinit" pi:pinit:layout="horizontal" pi:pinit:url="http://www.addthis.com/features/pinterest" pi:pinit:media="http://www.addthis.com/cms-content/images/features/pinterest-lg.png"></a>
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+<a class="addthis_button_tweet"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4e5efa0b57af4dbc"></script>
+<!-- AddThis Button END -->]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Free delivery]]></title><identifier>free_delivery</identifier><content><![CDATA[<div><img src="{{media url="wysiwyg/banners/free_delivery.jpg"}}" alt="Megamall" /></div>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block><cms_block><title><![CDATA[Cookie restriction notice]]></title><identifier>cookie_restriction_notice_block</identifier><content><![CDATA[<p>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.</p>]]></content><is_active>1</is_active><stores><id>0</id></stores></cms_block></blocks></root>
